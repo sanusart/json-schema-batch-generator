@@ -12,10 +12,10 @@ Convert a directory of json files to json-schema files in a batch node
 
       Options:
 
-        -h, --help     output usage information
-        -V, --version  output the version number
-        -i, --src      source directory
-        -o, --out      output directory
+        -h, --help      output usage information
+        -V, --version   output the version number
+        --src           source directory
+        --out           output directory
 
 ## Examples
 
