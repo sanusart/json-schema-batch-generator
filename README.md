@@ -1,6 +1,6 @@
 # json-schema-batch-generator
 
-Convert a directory of json files to json-schema files in a batch node
+Convert a directory of json files to json-schema files in a batch mode
 
 ## Installation
 
