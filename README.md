@@ -19,10 +19,6 @@ Convert a directory of json files to json-schema files in a batch node
 
 ## Examples
 
-    json-schema-batch-generator -i /path/to/src/dir -o  /path/to/output/dir
-
-or
-
     json-schema-batch-generator --src /path/to/src/dir --out  /path/to/output/dir
 
 ## license
