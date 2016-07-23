@@ -1,6 +1,6 @@
 {
   "name": "json-schema-batch-generator",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Convert a directory of json files to json-schema files in a batch node",
   "main": "index.js",
   "bin": {
